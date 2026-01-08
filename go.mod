@@ -4,9 +4,9 @@ go 1.25
 
 require (
 	github.com/goexl/validate v0.0.2
-	github.com/goexl/validator v0.0.1
+	github.com/goexl/validator v0.0.2
 	github.com/harluo/di v0.0.5
-	github.com/harluo/echo v0.3.0
+	github.com/harluo/echo v0.3.1
 )
 
 require (
