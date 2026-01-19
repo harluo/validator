@@ -1,8 +1,8 @@
-package echo
+package validator
 
 import (
-	"github.com/harluo/echo/internal/core"
+	"github.com/harluo/validator/internal/core"
 )
 
-// Server 服务器
-type Server = core.Server
+// Validator 验证器
+type Validator = core.Validator
